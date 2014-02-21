@@ -1,0 +1,12 @@
+{
+  "name": "Archetype-o-partition",
+  "version": "0.1.0",
+  "author": "Sam Ashley",
+  "main": "o-partition.scss",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "package.json",
+    "/test"
+  ]
+}
